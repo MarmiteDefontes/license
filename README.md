@@ -14,7 +14,7 @@ If you have:
 • Found a typo
 • Want to discuss font licensing
 
-—› Please reach out: marmite.defontes[at]gmail[dot]com.
+—› Please reach out: marmite.defontes[at]gmail[dot]com
 
 Cheers,
 
