@@ -31,7 +31,7 @@ The Licensee can embed the Font Software in applications and digital publication
 ### 2.7 Video and social media content
 The Licensee can use the Font Software to create video and social media assets. There are no subscribers / followers limit attached to the license.
 
-### 2.8 Broadcasting
+### 2.8 Broadcasting<!-- {"fold":true} -->
 The Licensee can use the Font Software for TV shows, commercials, video streaming, feature film, documentary and similar productions for commercial and non-commercial purposes. The limit of total viewers for the scope of work for broadcast and covered by this license is fixed to ten million viewers (10,000,000). Beyond this limit, a custom ‘License extension’ is required.
 
 ### 2.8 License extension
@@ -53,11 +53,12 @@ The Licensee is not allowed to purchase the Font Software on behalf of another o
 
 ## 3. License tiers
 Marmite Defontes uses a value-based license model. The model is based on the size of the Licensee’s organisation. Five tiers compose the model:
-* **Solo (1)**: your organisation is a one-person activity.
-* **Small (2 to 50)**: your organisation is composed of at least 2 persons and up to 50 people.
-* **Medium (51 to 250)**: your organisation is composed of at least 51 persons and up to 250 people.
-* **Large (250+)**: your organisation is composed of at least 251 people.
-* **Unlimited (∞)**: you need unlimited usage of the Font Software. This tier requires a custom license agreement and dedicated fees.
+* **Solo (1):** your organisation is a one-person activity.
+* **Small (2 to 25):** your organisation is composed of at least 2 persons and up to 50 people.
+* **Medium (26 to 50):** your organisation is composed of at least 51 persons and up to 250 people.
+* **Large (51 to 249):** your organisation is composed of at least 251 people.
+* **X-Large (250 to 100):** your organisation is composed of at least 250 people.
+* **Larger organisations:** you require a custom license agreement and dedicated fees, please contact us.
 
 ## 4. Refund and return policy
 Marmite Defontes applies a ‘No Refund and No Return’ policy. It means once an order has been processed and the digital files are available to the Licensee, there is no refund and no return possible. No exceptions will apply once an order has been processed and the digital files have already been made available to the Licensee.
